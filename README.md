@@ -1,5 +1,6 @@
 # CS-320-Final-project
 Software testing and automation 
+
 How can I ensure that my code, program, or software is functional and secure?
 
 To ensure functionality, I follow a test-driven development (TDD) approach by writing comprehensive JUnit tests that address both expected behaviors and edge cases. This method verifies that the application logic operates correctly and consistently. Additionally, I implement strict input validation to prevent malformed or invalid data from entering the system, which helps maintain the program’s integrity.
